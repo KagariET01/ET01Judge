@@ -1,0 +1,3 @@
+[submodule "ET01Judge_Server"]
+	path = ET01Judge_Server
+	url = git@github.com:KagariET01/ET01Judge_Server.git
